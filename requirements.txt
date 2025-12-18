@@ -1,0 +1,8 @@
+flask
+twilio
+redis
+rq
+google-generativeai
+reportlab
+psycopg2-binary
+requests
