@@ -1,8 +1,5 @@
-flask
-twilio
-redis
-rq
-google-generativeai
-reportlab
 psycopg2-binary
 requests
+google-cloud-storage
+google-cloud-speech
+twilio
